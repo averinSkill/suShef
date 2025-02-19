@@ -5,7 +5,7 @@ from pydub import AudioSegment
 import wave
 
 # Путь к модели Vosk
-model_path = r"C:\Users\culdc\Downloads\vosk-model-ru-0.42"  # Замените на путь к вашей модели
+model_path = r"C:\Users\...\vosk-model-ru-0.42"  # Замените на путь к вашей модели
 audio_path = "audio_tmp.wav"  # Замените на путь к вашему аудиофайлу
 
 # Загрузка модели
